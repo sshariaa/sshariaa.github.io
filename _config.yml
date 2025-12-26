@@ -2,14 +2,13 @@ title: Shahrizoda Bobojonova
 description: Backend Developer | Python
 author: Shahrizoda
 theme: jekyll-theme-cayman
-url: "https://your-username.github.io"
+url: 'https://sshariaa.github.io/Resume/'
 baseurl: "/resume"
 
 # Social links / accounts
-github_username: sshariaa.100
-linkedin: https://www.linkedin.com/in/shahrizoda-bobojonova
-twitter: https://twitter.com/sshariaa_100
-telegram: https://t.me/sshariaa_100
+github_username: sshariaa
+Instagram: https://www.instagram.com/_sshariaa
+telegram: https://t.me/sshariaa
 
 # Custom colors
 primary_color: "#1E90FF"
@@ -17,13 +16,9 @@ primary_color: "#1E90FF"
 # Resume sections
 resume:
   education:
-    - degree: "High School Diploma"
+    - degree: "High School"
       school: "Khorezm School"
-      year: 2025
-  experience:
-    - role: "Backend Developer"
-      company: "Freelance"
-      year: 2025
+
   skills:
     - Python
     - Django
@@ -34,10 +29,10 @@ resume:
       level: "Advanced"
     - language: "Uzbek"
       level: "Native"
-    - language: "Russian"
+    - language: "Korean"
       level: "Intermediate"
   projects:
     - name: "Telegram Bot API"
       description: "Created backend for Telegram bot to manage products and users."
-    - name: "Portfolio Website"
-      description: "Built personal portfolio using Jekyll and GitHub Pages."
+    - name: "Animal care Website"
+      description: "A website dedicated to helping pet owners and animal lovers keep their furry, feathered, and scaly friends happy and healthy."

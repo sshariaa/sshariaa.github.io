@@ -38,6 +38,6 @@ title: Shakhrizoda Bobojonova
 
 ## 📫 Contact
 - ✉️ Email: sshariaa.1008@gmail.com
-- 🌐 GitHub: [https://github.com/<sshariaa>](https://github.com/<sshariaa>)
+- 🌐 GitHub: [https://github.com/sshariaa](https://github.com/sshariaa)
 - 💬 Telegram: [@sshariaa](https://t.me/sshariaa)
 - 📸 Instagram: [@_sshariaa](https://instagram.com/_sshariaa)

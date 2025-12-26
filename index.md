@@ -1,10 +1,10 @@
 
 ---
 layout: default
-title: Shakhrizoda Bobojonova (sharia)
+title: Shakhrizoda Bobojonova
 ---
 
-# Shakhrizoda Bobojonova
+# Shakhrizoda Bobojonova (sharia)
 
 **Backend Developer | Python**  
 
